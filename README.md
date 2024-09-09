@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+My CV ⇒ [ru](https://github.com/eovsianik/eovsianik/blob/main/MyCV(ru).pdf)
 <!--
 **eovsianik/eovsianik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
